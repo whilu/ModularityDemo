@@ -1,0 +1,1 @@
+include ':app', ':businessmodule1', ':businessmodule2', ':baselibrary', ':activityhelper'
